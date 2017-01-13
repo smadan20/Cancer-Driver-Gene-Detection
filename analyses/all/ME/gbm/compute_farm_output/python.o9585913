@@ -1,0 +1,5 @@
+['LOC642826', 'LOC727677', 'PCYT2', 'NMT2', 'NMT1', 'PTTG1IP', 'PRKRA', 'PTGES3', 'PTGES2', 'SYF2', 'MIR1827', 'CCAR1', 'ZBTB8A', 'ZBTB8B', 'F12', 'LOC100506054', 'F10', 'F11', 'LOC100506050', 'HDGFL1', 'NODAL', 'TIGD1', 'RCOR2', 'RFPL3', 'RFPL2', 'TIGD5', 'TIGD4', 'TIGD7', 'TIGD6', 'PTPRCAP', 'KIAA1958', 'OXSM', 'MIR18B', 'MIR18A', 'MIR188', 'MIR187', 'MIR186', 'MIR185', 'MIR184', 'MIR183', 'MRPS18A', 'MRPS18B', 'MRPS18C', 'RUNX1-IT1', 'SKIV2L2', 'NRARP', 'NOP14']
+Traceback (most recent call last):
+  File "coversizetestall.py", line 151, in <module>
+    coverarr = dict[str(k2) + "_" + str(k1)]
+KeyError: '1_1'

@@ -1,0 +1,5 @@
+['CHI3L1', 'MIR496', 'DFNB31', 'MIR498', 'LINC00482', 'ZNF587B', 'LOC283710', 'KHNYN', 'PGAM4', 'DDX41', 'FABP5', 'PGAM2', 'UQCRFS1', 'DDX42', 'LOC402160', 'FABP1', 'GABRA5', 'PFN1P2', 'AKR1C2', 'LOC400752', 'PPP1R9A', 'PPP1R9B', 'BVES', 'SCMH1', 'EPS8L1', 'EPS8L2', 'EPS8L3', 'BTD', 'BTC', 'NXPH3', 'NXPH2', 'NXPH1', 'BTK', 'NXPH4', 'HSP90AA4P', 'BREA2', 'ELAVL1', 'PRELP', 'TNFRSF6B', 'DPAGT1', 'HNRNPA3P1', 'SNORD65', 'MLL2', 'YOD1', 'MLL5', 'LOC146336', 'CAMP']
+Traceback (most recent call last):
+  File "coversizetestall.py", line 151, in <module>
+    coverarr = dict[str(k2) + "_" + str(k1)]
+KeyError: '3_4'
